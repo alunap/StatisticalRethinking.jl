@@ -5,6 +5,9 @@
 |:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
 |![][project-status-img] | [![][docs-stable-img]][docs-stable-url] [![][docs-dev-img]][docs-dev-url] | ![][CI-build] |
 
+## This fork
+As the original maintainer, Rob J. Goedman, has stepped down, I would first like to express my gratitude for all the work he has put into this. I much enjoyed Prof McElreath's course, so I will endeavour to keep this fork current. The first task was to update the included packages and deal with the issue of TuringOptimExt not being available.
+
 ## Note
 
 After many years I have decided to step away from my work with Stan and Julia. My plan is to be around until the end of 2024 for support if someone decides to step in and take over further development and maintenance work.
